@@ -14,4 +14,4 @@ The dataset consists of detailed records of network activities, capturing variou
 **Project Workflow**
 * Data Preprocessing: Handled missing values and inconsistencies. Converted categorical features into numerical format using OneHotEncoder. Scaled numerical features for improved model performance.
 * Model Building: Integrated preprocessing steps into a Pipeline for streamlined and reproducible workflows.Used RandomForestClassifier for classification tasks, chosen for its robustness and ability to handle complex data patterns.
-*Model Evaluation: Assessed model performance using the confusion matrix and key metrics:- Accuracy, Precision, Recall, F1 score
+* Model Evaluation: Assessed model performance using the confusion matrix and key metrics:- Accuracy, Precision, Recall, F1 score
